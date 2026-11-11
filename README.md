@@ -63,7 +63,7 @@ flowchart TD
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YaadL/la-veranda-smartflow.git
+git clone https://github.com/meedeepdoc/la-veranda-smartflow.git
 cd la-veranda-smartflow
 
 # 2. Install dependencies
@@ -93,4 +93,4 @@ npm start
 **Daniil Mikhailov**  
 * Specialization: Frontend / Mobile Developer & Product Engineer  
 * Philosophy: **Zero Black Box** — deep understanding of runtime performance, memory efficiency, and user-centric architecture.  
-* GitHub: [@YaadL](https://github.com/YaadL)
+* GitHub: [@YaadL](https://github.com/meedeepdoc)
